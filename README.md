@@ -1,6 +1,6 @@
 # Meow Imports Checker
 
-Forensic analysis tool for Minecraft anti-cheat staff. Scans files for cheat client signatures, suspicious behavioral patterns, PE imports, obfuscation artifacts, and injection techniques — with integrated VirusTotal verification.
+Forensic analysis tool. Scans files for cheat client signatures, suspicious behavioral patterns, Strings, PE imports, obfuscation artifacts, and injection techniques — with integrated VirusTotal verification.
 
 
 ## ⚠️ Antivirus Notice
